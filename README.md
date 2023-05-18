@@ -11,4 +11,4 @@ Our project is a web development project that utilizes HTML, CSS, and JavaScript
 
 3)	JavaScript : We will use JavaScript to  add interactivity and dynamic functionality to the list and its components.We will use Javascript to add new items, marking items as complete, to save the To-Do List data in local Browser.
 
-By using these technologies and methods, we aim to create a functional and effective To-Do list.
+By using these technologies and methods, we aim to create a functional and effective To-Do list
