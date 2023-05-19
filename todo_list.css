@@ -42,7 +42,6 @@ border-radius: 10px;
     }
 
 input{
-
     flex: 1;
     border: none;
     outline: none;
@@ -51,7 +50,6 @@ input{
 }
 
 .button{
-
 border: none;    
 outline: none;    
 padding: 16px 50px;    
