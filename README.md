@@ -1,4 +1,4 @@
-# To-Do-List
+# To-Do-List :
 The project's title, “To-Do List” reflects the tasks and activities that an individual needs to complete within a specific timeframe. It serves as a reminder of what needs to be done and helps individuals prioritize their tasks according to their level of importance or urgency. 
 
 # Technology Used :
